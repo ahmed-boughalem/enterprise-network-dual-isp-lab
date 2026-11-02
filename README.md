@@ -1,15 +1,16 @@
+
 # Enterprise Network with Dual-ISP Redundancy
 
 Multi-site enterprise network built in PNETLab, with OSPF, RIP, IP SLA
 failover between two ISPs, NAT/PAT, VLANs and HSRP per VLAN.
 
-![Topology](topology/topology.png)
+![Topology](enterprise-network-dual-isp-lab/topology/topology.png)
 
 ## Content
-- [Technologies overview (PDF)](docs/)
-- [Addressing table (Excel)](topology/)
-- [Test screenshots](tests/)
-- [PNETLab lab file](lab/)
+- [Technologies overview (PDF)](enterprise-network-dual-isp-lab/docs/topology-and-technologies.pdf)
+- [Addressing table (Excel)](enterprise-network-dual-isp-lab/topology/addressing_tables.xlsx)
+- [Test screenshots](enterprise-network-dual-isp-lab/tests/)
+- [PNETLab lab file](enterprise-network-dual-isp-lab/lab/_Exports_pnetlab_export-20261102-023907.zip)
 
 ## Technologies
 OSPF multi-area, RIP v2, route redistribution, floating static route,
