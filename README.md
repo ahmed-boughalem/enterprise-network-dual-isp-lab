@@ -4,7 +4,7 @@
 Multi-site enterprise network built in PNETLab, with OSPF, RIP, IP SLA
 failover between two ISPs, NAT/PAT, VLANs and HSRP per VLAN.
 
-![Topology](enterprise-network-dual-isp-lab/topology/topology.png)
+![Topology](enterprise-network-dual-isp-lab/topology/topology.jpg)
 
 ## Content
 - [Technologies overview (PDF)](enterprise-network-dual-isp-lab/docs/topology-and-technologies.pdf)
