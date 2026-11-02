@@ -6,10 +6,10 @@ failover between two ISPs, NAT/PAT, VLANs and HSRP per VLAN.
 ![Topology](topology/topology.png)
 
 ## Content
-- [Technologies overview (PDF)](docs/topology-and-technologies)
-- [Addressing table (Excel)](topology/addressing_tables.xlsx)
+- [Technologies overview (PDF)](docs/)
+- [Addressing table (Excel)](topology/)
 - [Test screenshots](tests/)
-- [PNETLab lab file](lab/_Exports_pnetlab_export-20261102-023907.zip)
+- [PNETLab lab file](lab/)
 
 ## Technologies
 OSPF multi-area, RIP v2, route redistribution, floating static route,
